@@ -5,7 +5,7 @@
 
 projeto construido do evento next level week da rocketseat
 
-[clique aqui para acessar](link aqui)
+[Clique aqui para acessar!](https://rafadori.github.io/nlw-challenge/)
 
 
 ## 👨‍💻 Tecnologias
