@@ -94,7 +94,7 @@ section ul li{
 }
 
 section ul li:hover{
-    transform: scale(1.1);
+    transform: scale(1.1) !important; /* Usar esta regra para sobrescrever propriedade que vem por padrão na biblioteca do Swiper*/
 }
 
 .games-list img{
@@ -150,4 +150,22 @@ main section:nth-child(3){
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+/* Swiper */
+
+section{
+    overflow: hidden;
+}
+
+section ul{
+    flex-wrap: nowrap;
+}
+
+.games-list{
+    gap: 0;
+}
+
+.swiper-wrapper{
+    text-align: center;
 }
