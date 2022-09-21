@@ -1,9 +1,9 @@
 # NLW challenge
 
 ![preview](.github/preview.png)
-> trilha explorer
+> Trilha Explorer
 
-Projeto construido durante o evento Next Level Week da RocketSeat e com novas funcionalidades
+Projeto construido durante o evento Next Level Week da RocketSeat, contando com novas funcionalidades e melhorias
 
 [Clique aqui para acessar!](https://rafadori.github.io/nlw-challenge/)
 
