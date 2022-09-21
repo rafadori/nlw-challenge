@@ -11,6 +11,7 @@ Projeto construido durante o evento Next Level Week da RocketSeat, contando com 
 
 - HTML
 - CSS
+- JavaScript
 - Git e Github
 
 ## 📚 Bibliotecas
